@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(47, 78, 255);
+}
+main{
+    text-align: center;
+   
+}
+div{
+    font-size: 70px;
+}
+button{
+    height: 50px ;
+    width: 150px;
+    border: none;
+    margin-top: 40px;
+    box-shadow: 10px, 10px, 10px;7
+    padding: 5px;
+}
+button:hover{
+    cursor: pointer;
+    color: red
+}
