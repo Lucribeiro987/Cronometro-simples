@@ -1,3 +1,3 @@
 # Cronometro-simples
 
-Feito com html css e JavaScript
+Feito com Html, Css e JavaScript
